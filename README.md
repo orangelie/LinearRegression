@@ -1,7 +1,7 @@
 # LinearRegression
 Simple Linear Regression on C++17
 
-## Works on C++17 and above. ##
+## ONLY Works on C++17 and above. ##
 
 ### Linear_Regression::Train ###
 Training ARTIFICIAL INTELLIGENCE through linear data.
