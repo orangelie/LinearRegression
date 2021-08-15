@@ -1,5 +1,5 @@
 # LinearRegression
-Linear Regression C++17
+Simple Linear Regression C++17
 
 ## Works on C++17 and above. ##
 
