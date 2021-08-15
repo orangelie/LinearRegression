@@ -10,4 +10,4 @@ Training ARTIFICIAL INTELLIGENCE through linear data.
 Predicts VALUES based on linear data.
 
 ### Model_Logger::Save ###
-Save the Trained model.
+Log the Trained model.
